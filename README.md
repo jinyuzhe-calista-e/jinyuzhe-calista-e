@@ -30,5 +30,6 @@ Here are some ideas to get you started:
   <a href="https://www.apple.com/ca/macos/"><img src="https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=white" alt="Mac OS"></a>
   <a href="https://www.microsoft.com/en-ca/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows"></a>
 <img scr=![image](https://github.com/jinyuzhe-calista-e/jinyuzhe-calista-e/assets/159185314/0c6f42bd-4f59-4335-a787-e521dd4f2043)>
-
+<h2>🎊Education</h2>
+<p>2024--A grade nine high school student from Mother Teresa High School</p>
 
